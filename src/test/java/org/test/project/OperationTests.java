@@ -1,3 +1,5 @@
+package org.test.project;
+
 import org.junit.Test;
 import org.test.project.operations.*;
 
